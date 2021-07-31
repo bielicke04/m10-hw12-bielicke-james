@@ -1,5 +1,10 @@
 # ES6 Classes
 
+* Struggled a little with writing the "setTimeout" method correctly, but re-watched the lecture & re-read the notes + W3Schools.com to figure it out.
+
+
+
+
 &nbsp;
 ## Background
 
